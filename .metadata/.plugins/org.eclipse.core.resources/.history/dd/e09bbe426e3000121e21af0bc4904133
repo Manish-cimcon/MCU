@@ -24,9 +24,6 @@
 
 //testing git
 //another test
-//testing1 added to branch
-
-//added after checking out testing
 
 static uint8_t barPos = 2;
 
