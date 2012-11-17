@@ -112,3 +112,63 @@ Command-line arguments:  -os linux -ws gtk -arch x86 -data /home/hizzle/MCU
 
 !ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:20:45.133
 !MESSAGE Indexed 'timer' (3 sources, 12 headers) in 0.05 sec: 207 declarations; 293 references; 5 unresolved inclusions; 0 syntax errors; 148 unresolved names (22.84%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:20.420
+!MESSAGE Indexed 'Lib_CMSISv1p30_LPC17xx' (2 sources, 25 headers) in 0.27 sec: 1,205 declarations; 2,088 references; 5 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.047
+!MESSAGE Indexed 'Lib_MCU' (24 sources, 34 headers) in 0.62 sec: 2,955 declarations; 18,306 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.214
+!MESSAGE Indexed 'Lib_EaBaseBoard' (13 sources, 27 headers) in 0.16 sec: 881 declarations; 3,067 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.323
+!MESSAGE Indexed 'Lib_FatFs_SD' (2 sources, 13 headers) in 0.10 sec: 451 declarations; 3,560 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.367
+!MESSAGE Indexed 'bnc_oled' (2 sources, 9 headers) in 0.04 sec: 154 declarations; 279 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.411
+!MESSAGE Indexed 'demo' (2 sources, 9 headers) in 0.04 sec: 190 declarations; 449 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.448
+!MESSAGE Indexed 'disp7seg_rotary' (2 sources, 9 headers) in 0.03 sec: 138 declarations; 168 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.648
+!MESSAGE Indexed 'easyweb' (5 sources, 39 headers) in 0.20 sec: 1,014 declarations; 2,673 references; 3 unresolved inclusions; 0 syntax errors; 1 unresolved names (0.03%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.715
+!MESSAGE Indexed 'i2c_eeprom' (2 sources, 9 headers) in 0.04 sec: 145 declarations; 265 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.751
+!MESSAGE Indexed 'leds_joystick' (2 sources, 9 headers) in 0.03 sec: 141 declarations; 179 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.813
+!MESSAGE Indexed 'mmc_fat' (2 sources, 9 headers) in 0.06 sec: 154 declarations; 364 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.855
+!MESSAGE Indexed 'oled_periph' (2 sources, 9 headers) in 0.04 sec: 167 declarations; 392 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.890
+!MESSAGE Indexed 'rgb_joystick' (2 sources, 9 headers) in 0.03 sec: 138 declarations; 160 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:21.952
+!MESSAGE Indexed 'speaker_tone' (2 sources, 9 headers) in 0.06 sec: 152 declarations; 182 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:22.032
+!MESSAGE Indexed 'speaker_wav' (3 sources, 9 headers) in 0.08 sec: 147 declarations; 281 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:22.086
+!MESSAGE Indexed 'spi_flash' (2 sources, 9 headers) in 0.05 sec: 156 declarations; 352 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:22.127
+!MESSAGE Indexed 'uart2' (2 sources, 9 headers) in 0.04 sec: 145 declarations; 253 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:22.358
+!MESSAGE Indexed 'usbhostlite' (6 sources, 41 headers) in 0.23 sec: 1,519 declarations; 3,500 references; 3 unresolved inclusions; 0 syntax errors; 7 unresolved names (0.14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:22.491
+!MESSAGE Indexed 'usbmem' (8 sources, 20 headers) in 0.13 sec: 644 declarations; 2,502 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-11-16 20:39:22.550
+!MESSAGE Indexed 'xbee_oled' (2 sources, 9 headers) in 0.06 sec: 149 declarations; 279 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
