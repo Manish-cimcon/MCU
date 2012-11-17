@@ -22,8 +22,6 @@
 #include "oled.h"
 #include "rgb.h"
 
-//testing git
-
 static uint8_t barPos = 2;
 
 static void moveBar(uint8_t steps, uint8_t dir)
