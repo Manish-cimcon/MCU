@@ -23,7 +23,6 @@
 #include "rgb.h"
 
 //added a new comment
-//added another comment
 
 static uint8_t barPos = 2;
 
