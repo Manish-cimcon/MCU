@@ -25,8 +25,6 @@
 //added a new comment
 //added another comment
 
-//this is for experiment1
-
 static uint8_t barPos = 2;
 
 static void moveBar(uint8_t steps, uint8_t dir)
